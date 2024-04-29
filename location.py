@@ -1,4 +1,4 @@
-from DBConnection import *
+from DBconnection import *
 
 class LocationHandler:    
     

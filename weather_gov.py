@@ -1,10 +1,10 @@
-from DBConnection import *
-from Location import LocationHandler
-from WeatherAlert import WeatherAlertHandler
-from LocationAlert import LocationAlertHandler
-from HourlyForecast import HourlyForecastHandler
-from PastForecast import PastForecastHandler
-from DailyForecast import DailyForecastHandler
+from DBconnection import *
+from location import LocationHandler
+from weatheralert import WeatherAlertHandler
+from locationalert import LocationAlertHandler
+from hourlyforecast import HourlyForecastHandler
+from pastforecast import PastForecastHandler
+from dailyforecast import DailyForecastHandler
 from UserAccount import UserAccountHandler
 
 # ###########################################################################################
